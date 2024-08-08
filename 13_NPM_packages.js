@@ -5,7 +5,7 @@
 // npm i <packageName>
 
 // global dependency - use it in any project
-// nmp install -g <packageName>
+// npm install -g <packageName>
 // sudo install -g <packageName> (mac)
 
 // package.json - manifest files (stores important info about prject/package)
